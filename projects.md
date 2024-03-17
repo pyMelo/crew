@@ -53,7 +53,7 @@
 |	Roberto	Marchese	|	https://github.com/RobyMark/ProgettoTapRM	|
 | Sergio Mancini | https://github.com/ManciSee/PARL |
 | Orazio Sciuto | https://github.com/orazios98/youtube_sentiment_analysis |
-
+| Carmelo Fuccio | https://github.com/pyMelo/TapTwitch |
 
 
 
